@@ -1,0 +1,13 @@
+﻿O que funcionou bem
+* Foi possível realizar todas as mudanças 
+* Os clientes ficaram satisfeitos
+
+
+O que não funcionou tão bem
+* Existiu dificuldade para executar os comandos do git
+* Existiu dificuldade para realizar todos os commits
+
+
+Sugestão de melhoria 
+* Maior tempo para realizar as atividades
+* Maior tempo de estudo dos conceitos
